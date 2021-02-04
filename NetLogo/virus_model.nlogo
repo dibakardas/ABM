@@ -1,15 +1,26 @@
-;=========================================================================================================
-; Most of the initialization are random
+;==========================================================================================================================================
+; Most of the initialization are random and bounds are hardcoded
 ; In future, will try to remove hard coding with configurable variables
 ; 
 ; The code is flat. Not much of modularity.
 ; The model is written by a beginner in NetLogo, not all features of NetLogo used, but seems to work :-)
 ; It is just a model, results are only to demonstrate the model and do not serve any other purpose
+; Please feel free to extend the model with more details
+;
+; A paper explaining the model is available at https://arxiv.org/abs/2102.00844
 ;
 ; Contact: dibakard@ieee.org
 ;
-; how to cite: TO BE DONE
-;=========================================================================================================
+; how to cite: 
+; @misc{das2021agent,
+;      title={Agent Based Virus Model using NetLogo: Infection Propagation, Precaution, Recovery, Multi-site Mobility and (Un)Lockdown}, 
+;      author={Dibakar Das},
+;      year={2021},
+;      eprint={2102.00844},
+;      archivePrefix={arXiv},
+;      primaryClass={cs.MA}
+; }
+;==========================================================================================================================================
 
 ;---------------------------------------------------------------------------------------------------------
 globals
