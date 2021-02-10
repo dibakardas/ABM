@@ -7,11 +7,13 @@
 ; It is just a model, results are only to demonstrate the model and do not serve any other purpose
 ; Please feel free to extend the model with more details
 ;
+; A zipped version of the file is also made available under ../ABM/NetLogo
+; 
 ; A paper explaining the model is available at https://arxiv.org/abs/2102.00844
 ;
 ; Contact: dibakard@ieee.org
 ;
-; how to cite: 
+; how to cite: https://arxiv.org/abs/2102.00844
 ; @misc{das2021agent,
 ;      title={Agent Based Virus Model using NetLogo: Infection Propagation, Precaution, Recovery, Multi-site Mobility and (Un)Lockdown}, 
 ;      author={Dibakar Das},
@@ -2715,7 +2717,7 @@ SWITCH
 127
 propagate-infection?
 propagate-infection?
-0
+1
 1
 -1000
 
@@ -2726,7 +2728,7 @@ SWITCH
 209
 route-blue-red-enable?
 route-blue-red-enable?
-0
+1
 1
 -1000
 
@@ -2737,7 +2739,7 @@ SWITCH
 361
 route-cyan-red-enable?
 route-cyan-red-enable?
-0
+1
 1
 -1000
 
@@ -2748,7 +2750,7 @@ SWITCH
 398
 route-yellow-red-enable?
 route-yellow-red-enable?
-0
+1
 1
 -1000
 
@@ -2759,7 +2761,7 @@ SWITCH
 133
 route-blue-yellow-enable?
 route-blue-yellow-enable?
-0
+1
 1
 -1000
 
@@ -2770,7 +2772,7 @@ SWITCH
 171
 route-blue-pink-enable?
 route-blue-pink-enable?
-0
+1
 1
 -1000
 
@@ -2781,7 +2783,7 @@ SWITCH
 245
 route-pink-red-enable?
 route-pink-red-enable?
-0
+1
 1
 -1000
 
@@ -2792,7 +2794,7 @@ SWITCH
 322
 route-cyan-pink-enable?
 route-cyan-pink-enable?
-0
+1
 1
 -1000
 
@@ -2803,7 +2805,7 @@ SWITCH
 284
 route-cyan-yellow-enable?
 route-cyan-yellow-enable?
-0
+1
 1
 -1000
 
@@ -2957,7 +2959,7 @@ SWITCH
 59
 infect-red?
 infect-red?
-0
+1
 1
 -1000
 
@@ -2968,7 +2970,7 @@ SWITCH
 59
 infect-blue?
 infect-blue?
-0
+1
 1
 -1000
 
@@ -2979,7 +2981,7 @@ SWITCH
 60
 infect-pink?
 infect-pink?
-0
+1
 1
 -1000
 
@@ -2990,7 +2992,7 @@ SWITCH
 60
 infect-yellow?
 infect-yellow?
-0
+1
 1
 -1000
 
@@ -3001,7 +3003,7 @@ SWITCH
 60
 infect-cyan?
 infect-cyan?
-0
+1
 1
 -1000
 
@@ -3067,7 +3069,7 @@ SWITCH
 128
 start-recovery?
 start-recovery?
-0
+1
 1
 -1000
 
@@ -3078,7 +3080,7 @@ SWITCH
 127
 take-precautions?
 take-precautions?
-0
+1
 1
 -1000
 
