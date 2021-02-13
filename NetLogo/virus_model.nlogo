@@ -7,7 +7,10 @@
 ; It is just a model, results are only to demonstrate the model and do not serve any other purpose
 ; Please feel free to extend the model with more details
 ;
-; A zipped version of the file is also made available under ../ABM/NetLogo
+; IMPORTANT NOTES:
+; A zipped version of the file is also made available under ../ABM/NetLogo if there is problem loading the model 
+; The model is tested in NetLogo 5.2 and 6.2 
+; Colour code 75 is named as cyan
 ; 
 ; A paper explaining the model is available at https://arxiv.org/abs/2102.00844
 ;
